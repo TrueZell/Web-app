@@ -1,4 +1,4 @@
-const CACHE = 'simple-zayavki-criteria-v10';
+const CACHE = 'simple-zayavki-criteria-v11';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 const XLSX_URL = 'https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js';
 self.addEventListener('install', event => {
