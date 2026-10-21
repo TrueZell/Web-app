@@ -1,0 +1,9 @@
+{
+  "name": "Контроль заявок",
+  "short_name": "Заявки",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f7fa",
+  "theme_color": "#174a70",
+  "lang": "ru"
+}
